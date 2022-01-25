@@ -23,6 +23,9 @@ Explanation Attention Words in the text to justify the prediction:
 ['Additionally,', 'Ruiz’s', 'threatening', 'location', 'online', 'former', 'phone.', 'through', 'monitoring', 'History,', 'photos/videos', 'suspected', 'stalking', 'spouse.', 'sending', 'social', 'messages', 'physically', 'present', 'Bookmarks,']
 
 
+The code is available in Zero_Shot_Classification_and_explanation_Application notebook. Further in Google Colab https://colab.research.google.com/drive/1D78McZFCjM9XDMtTsE8EfNg6lSHeKxhe?usp=sharing
+
+
 
 
 
