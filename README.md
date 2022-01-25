@@ -25,6 +25,36 @@ Explanation Attention Words in the text to justify the prediction:
 
 The code is available in Zero_Shot_Classification_and_explanation_Application notebook. Further in Google Colab https://colab.research.google.com/drive/1D78McZFCjM9XDMtTsE8EfNg6lSHeKxhe?usp=sharing
 
+# Review Data Analysis
+
+We have applied the Zero-Shot-Classification on the Review data sets: Hotel Review and IMDB Movie Review data are collected from Kaggle. The data is available here https://drive.google.com/drive/folders/1D9vNJ9O11JOyXo89-Sl2bsguoSxB59nZ?usp=sharing
+
+In IMDB movie data there are 50000 reviews, and in hotel data there are about 5 million reviews.
+
+Here  the model detects the class of the review and the Zero-Shot-Explainer generates the attention words to justfy the prediction.
+
+The sample outcomes for the hotel review:
+
+Predicted Sentiment Class: 
+Positive
+
+Explanation Attention Words in the text to justify this prediction:
+
+['serving', 'affect', 'comfortable', 'recommend', 'complete', 'staying', 'modesty', 'guests', 'restaurant', 'stranger', 'still', 'start', 'little', 'facilities', 'concerned', 'corner', 'black', 'practically', 'across', 'lack']
+
+
+Predicted Sentiment Class: 
+Negative
+
+Explanation Attention Words in the text to justify this prediction:
+['renovated', 'noise', 'no', 'noisy', 'room', 'rooms', 'people', 'building', 'currently', 'hotel']
+
+
+
+
+
+
+
 
 
 
