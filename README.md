@@ -49,6 +49,18 @@ Negative
 Explanation Attention Words in the text to justify this prediction:
 ['renovated', 'noise', 'no', 'noisy', 'room', 'rooms', 'people', 'building', 'currently', 'hotel']
 
+# Code
+
+The codes are available in Zero_Shot_Classification_Sentiment_Analysis,Zero_Shot_Classification_and_explanation_Application notebooks. The data should be set up along with path. 
+
+# Packages need to be installed
+
+transformers_interpret
+
+transformers
+
+Python-3.5
+
 
 
 
