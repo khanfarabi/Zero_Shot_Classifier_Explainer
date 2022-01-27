@@ -23,7 +23,7 @@ Explanation Attention Words in the text to justify the prediction:
 ['Additionally,', 'Ruiz’s', 'threatening', 'location', 'online', 'former', 'phone.', 'through', 'monitoring', 'History,', 'photos/videos', 'suspected', 'stalking', 'spouse.', 'sending', 'social', 'messages', 'physically', 'present', 'Bookmarks,']
 
 
-The code is available in Zero_Shot_Classification_and_explanation_Application notebook. Further in Google Colab https://colab.research.google.com/drive/1D78McZFCjM9XDMtTsE8EfNg6lSHeKxhe?usp=sharing
+
 
 # Review Data Analysis
 
@@ -51,7 +51,11 @@ Explanation Attention Words in the text to justify this prediction:
 
 # Code
 
-The codes are available in Zero_Shot_Classification_Sentiment_Analysis,Zero_Shot_Classification_and_explanation_Application notebooks. The data should be set up along with path. 
+The sentiment analysis codes are available in Zero_Shot_Classification_Sentiment_Analysis notebooks. The data should be set up along with path. Further for the sentiment analysis application the code is available in Google colab https://colab.research.google.com/drive/1rE1NIUsMOJdrkxDBVssPm_DCKUKXlIxk?usp=sharing
+
+
+The explanation code is available in Zero_Shot_Classification_and_explanation_Application notebook. Further in Google Colab https://colab.research.google.com/drive/1D78McZFCjM9XDMtTsE8EfNg6lSHeKxhe?usp=sharing
+
 
 # Packages need to be installed
 
