@@ -56,6 +56,9 @@ The sentiment analysis codes are available in Zero_Shot_Classification_Sentiment
 
 The explanation code is available in Zero_Shot_Classification_and_explanation_Application notebook. Further in Google Colab https://colab.research.google.com/drive/1D78McZFCjM9XDMtTsE8EfNg6lSHeKxhe?usp=sharing
 
+# Data
+
+The data sets are available here https://drive.google.com/drive/folders/1qziYZb0l9d-_KBIueCnWGvuVnuZr4yil?usp=sharing
 
 # Packages need to be installed
 
